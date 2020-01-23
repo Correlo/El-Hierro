@@ -24,7 +24,7 @@ for folder in Folders:
         if float(folder)!=0:
             timename.append(folder)
 
-Outdir='Figures/Pressure/'
+Outdir=''#'Figures/Pressure/'
 
 x, y, z = flf.readmesh(sol, True, precision = 5)
 
