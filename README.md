@@ -5,6 +5,8 @@ Código de simulación de ascensión de magma y visualización en Python, desarr
 
 
 Developers: Martín Manuel Gómez Míguez  mamagomi@gmail.com           @Correlo;
+
             Julien Lombard              juli1.lombard@gmail.com;
+            
             Vicente Soler Javaloyes     vsoler@ipna.csic.es;
            
