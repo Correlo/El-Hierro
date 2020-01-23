@@ -27,7 +27,7 @@ for folder in Folders:
             timename.append(folder)
 
 veli=['x','y','z']
-Outdir='Figures/Vel_comp/'
+Outdir=''#'Figures/Vel_comp/'
 
 x, y, z = flf.readmesh(sol, True, precision = 5)
 
