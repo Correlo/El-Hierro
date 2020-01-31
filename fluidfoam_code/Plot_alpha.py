@@ -1,3 +1,7 @@
+#Author: Martín Manuel Gómez Míguez
+#GitHub: @Correlo
+#Date: 31/01/2020
+
 import numpy as np
 import matplotlib.pyplot as plt
 import fluidfoam as flf
